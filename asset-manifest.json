@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/dibrpublic/static/css/main.67e256fb.css",
+    "main.js": "/dibrpublic/static/js/main.0015a828.js",
+    "static/js/787.7ff9b77b.chunk.js": "/dibrpublic/static/js/787.7ff9b77b.chunk.js",
+    "static/media/house_interior1.jpeg": "/dibrpublic/static/media/house_interior1.14863c5007b4d5784819.jpeg",
+    "static/media/uitnodigingsmail-screenshot.PNG": "/dibrpublic/static/media/uitnodigingsmail-screenshot.f5a82fa8d6336a12cf5c.PNG",
+    "static/media/house_exterior.jpeg": "/dibrpublic/static/media/house_exterior.a7ba374f21c540dd6aac.jpeg",
+    "static/media/rsz_jen-theodore-cimitajtb6i-unsplash.png": "/dibrpublic/static/media/rsz_jen-theodore-cimitajtb6i-unsplash.e21b4c8156b22222b689.png",
+    "static/media/house_interior2.jpeg": "/dibrpublic/static/media/house_interior2.9ab9e977f61226841f01.jpeg",
+    "static/media/profilepageimage.png": "/dibrpublic/static/media/profilepageimage.b319ceec86b5fa81f549.png",
+    "static/media/exterior2.jpg": "/dibrpublic/static/media/exterior2.f968d4315b49e0daa2dc.jpg",
+    "static/media/profieluitkiezen-screenshot.png": "/dibrpublic/static/media/profieluitkiezen-screenshot.70e15df1a10082d968cf.png",
+    "static/media/startuptable.jpg": "/dibrpublic/static/media/startuptable.9a2944bab12f99344cbd.jpg",
+    "static/media/avatar1.jpg": "/dibrpublic/static/media/avatar1.daf37a03f66fbaed9010.jpg",
+    "static/media/exterior1.jpg": "/dibrpublic/static/media/exterior1.0b3c205f2d45fbc90523.jpg",
+    "static/media/avatar8.jpg": "/dibrpublic/static/media/avatar8.708931127d21f71816da.jpg",
+    "static/media/interior3.jpg": "/dibrpublic/static/media/interior3.0e3605f62f52d8b25ea2.jpg",
+    "static/media/avatar2.jpg": "/dibrpublic/static/media/avatar2.a9c2f22790dee6538324.jpg",
+    "static/media/avatar4.jpg": "/dibrpublic/static/media/avatar4.af3946a0ba94e842142d.jpg",
+    "static/media/avatar7.jpg": "/dibrpublic/static/media/avatar7.aca0f15c5283393b8054.jpg",
+    "static/media/avatar5.jpg": "/dibrpublic/static/media/avatar5.ff39af6574ea470708bd.jpg",
+    "static/media/avatar9.jpg": "/dibrpublic/static/media/avatar9.297b5ee7d2bc6b7d9e82.jpg",
+    "static/media/avatar6.jpg": "/dibrpublic/static/media/avatar6.23e2953828901448c5f3.jpg",
+    "static/media/avatar3.jpg": "/dibrpublic/static/media/avatar3.5bb91620e490db03c54e.jpg",
+    "static/media/interiorbed1.jpg": "/dibrpublic/static/media/interiorbed1.30e4c4d642cb5f8a0fe6.jpg",
+    "static/media/interiorkitchen1.jpg": "/dibrpublic/static/media/interiorkitchen1.b09313b7d162d211cbd9.jpg",
+    "static/media/house_interior1_180x204.jpeg": "/dibrpublic/static/media/house_interior1_180x204.42410e5bfe57479662bc.jpeg",
+    "static/media/slick.svg": "/dibrpublic/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/dibrpublic/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/dibrpublic/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/dibrpublic/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/dibrpublic/index.html",
+    "main.67e256fb.css.map": "/dibrpublic/static/css/main.67e256fb.css.map",
+    "main.0015a828.js.map": "/dibrpublic/static/js/main.0015a828.js.map",
+    "787.7ff9b77b.chunk.js.map": "/dibrpublic/static/js/787.7ff9b77b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67e256fb.css",
+    "static/js/main.0015a828.js"
+  ]
+}
