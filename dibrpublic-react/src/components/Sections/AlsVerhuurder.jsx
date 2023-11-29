@@ -6,7 +6,6 @@ import ServiceBox from "../Elements/ServiceBox";
 
 // Assets
 
-
 export default function AlsVerhuurder() {
   return (
     <Wrapper id="alsverhuurder">
@@ -21,7 +20,8 @@ export default function AlsVerhuurder() {
           <HeaderInfo>
             <h1 className="font40 extraBold">Als verhuurder</h1>
             <p className="font13">
-              Vind binnen no-time geschikte huurders voor je woning. Alle gegevens gecheckt door {ProjectName}!
+              Vind binnen no-time geschikte huurders voor je woning. Alle
+              gegevens gecheckt door {ProjectName}!
               <br />
               Met een paar simpele stappen heb jij zo je woning verhuurd:
             </p>
@@ -42,10 +42,11 @@ export default function AlsVerhuurder() {
               />
             </ServiceBoxWrapper>
             <ServiceBoxWrapper>
-              <ServiceBox 
-                icon="email" 
-                title="Nodig potentiele huurders uit" 
-                subtitle="Je nodigt potentiele huurder uit een overzicht van potentiele huurders die voldoen aan alle eisen." />
+              <ServiceBox
+                icon="email"
+                title="Nodig potentiele huurders uit"
+                subtitle="Je nodigt potentiele huurder uit een overzicht van potentiele huurders die voldoen aan alle eisen."
+              />
             </ServiceBoxWrapper>
             <ServiceBoxWrapper>
               <ServiceBox
@@ -58,7 +59,7 @@ export default function AlsVerhuurder() {
               <ServiceBox
                 icon="contract"
                 title="Afhandeling formaliteiten"
-                subtitle={`Ontvang via Dibr alle benodigde gegevens van de gekozen huurder, handel alle formaliteiten via ${ProjectName} af.`}
+                subtitle={`Ontvang via Dibbr alle benodigde gegevens van de gekozen huurder, handel alle formaliteiten via ${ProjectName} af.`}
               />
             </ServiceBoxWrapper>
           </ServiceBoxRow>

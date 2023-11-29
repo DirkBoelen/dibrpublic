@@ -8,62 +8,52 @@ import AddImage2 from "../../assets/img/add/add2.png";
 import { ProjectName } from "../../data";
 import "./PageUitnodigingMail.css";
 import TopNavbar from "../Nav/TopNavbar";
-import img1 from '../../assets/img/house_interior1.jpeg';
-import img2 from '../../assets/img/house_interior2.jpeg';
-import img3 from '../../assets/img/house_exterior.jpeg';
-import avatar6 from '../../assets/img/avatar6.jpg'
-import { ColorPalet1, ColorPalet2, ColorPalet3, ColorPalet4 } from "../../assets/colors/colorpalet";
+import img1 from "../../assets/img/house_interior1.jpeg";
+import img2 from "../../assets/img/house_interior2.jpeg";
+import img3 from "../../assets/img/house_exterior.jpeg";
+import avatar6 from "../../assets/img/avatar6.jpg";
+import {
+  ColorPalet1,
+  ColorPalet2,
+  ColorPalet3,
+  ColorPalet4,
+} from "../../assets/colors/colorpalet";
 
 export default function PageUitnodigingMail() {
   return (
     <div className="email-container">
       <div className="email">
         <div className="email-header">
-          <TopNavbar/>
-          <img
-            src={avatar6}
-            alt="Dibr logo"
-            className="email-logo"
-          />
+          <TopNavbar />
+          <img src={avatar6} alt="Dibbr logo" className="email-logo" />
           <h1 className="email-title">Uitnodiging bezichtiging woning</h1>
         </div>
         <div className="email-body">
-          <p>
-            Beste Titus &amp; Oskar,
-          </p>
+          <p>Beste Titus &amp; Oskar,</p>
           <br></br>
           <p>
-            Gefeliciteerd! Jullie zijn uitgenodigd voor een bezichtiging voor de woning op de <b>onsnieuwehuislaan 123</b>.
+            Gefeliciteerd! Jullie zijn uitgenodigd voor een bezichtiging voor de
+            woning op de <b>onsnieuwehuislaan 123</b>.
           </p>
           <p>
-            Klik <ColorLink href="#">hier</ColorLink> om deze woning te bekijken.
+            Klik <ColorLink href="#">hier</ColorLink> om deze woning te
+            bekijken.
           </p>
           <div className="email-images">
-            <img
-              src={img1}
-              alt="Image 1"
-              className="email-image"
-            />
-            <img
-              src={img3}
-              alt="Image 2"
-              className="email-image"
-            />
-            <img
-              src={img2}
-              alt="Image 3"
-              className="email-image"
-            />
+            <img src={img1} alt="Image 1" className="email-image" />
+            <img src={img3} alt="Image 2" className="email-image" />
+            <img src={img2} alt="Image 3" className="email-image" />
           </div>
           <br></br>
           <p>
-            Klik op deze <ColorLink href="#">link</ColorLink> en log in om de uitnodiging te accepteren.
+            Klik op deze <ColorLink href="#">link</ColorLink> en log in om de
+            uitnodiging te accepteren.
           </p>
           <br></br>
           <p>
             Met huiselijke groeten,
             <br />
-            Het Dibr Team
+            Het Dibbr Team
           </p>
         </div>
         <div className="email-footer">
